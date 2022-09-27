@@ -1,0 +1,3 @@
+https://infostart.ru/1c/articles/1089670/
+https://github.com/oscript-library/gitsync
+https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/
